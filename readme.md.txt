@@ -56,3 +56,5 @@ This project demonstrates how to:
 Combine deterministic logic with LLMs
 Control LLM outputs using structured prompts
 Validate and evaluate AI-generated responses
+## Live Demo
+https://ai-trip-planner-fenuyejthrpgkup5rv5uvk.streamlit.app/
