@@ -10,8 +10,7 @@ client = OpenAI()
 # -----------------------------
 
 st.title("AI Trip Planner")
-st.markdown("Generate a personalized travel itinerary using AI.")
-
+st.markdown("Enter your destination, number of days, and budget to generate a personalized itinerary.")
 # -----------------------------
 # USER INPUT
 # -----------------------------
